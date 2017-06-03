@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: Preloader Tomatoes
-Plugin URI: http://www.kenguruka.ru/tomatoes-preloader
+Plugin Name: Karazunguruka Preloader
+Plugin URI: http://www.kenguruka.ru/karazunguruka-preloader
 Description: Make a preloader spinning while the page is loading
 Author: kengres
 Author URI: http://www.kenguruka.ru
-Version: 0.0.1
+Version: 1.0.0
 
 */
 
